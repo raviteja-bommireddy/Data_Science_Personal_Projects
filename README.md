@@ -4,7 +4,7 @@
 
 🛠 Technologies Used
   This repository features various tools and technologies, including but not limited to:
-    Python, R, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebooks, VSCode
+  Python, R, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebooks, VSCode
 
 🎯 Goals
   1. To practice and enhance my data science skills.

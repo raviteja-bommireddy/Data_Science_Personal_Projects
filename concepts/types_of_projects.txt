@@ -1,0 +1,31 @@
+1.Sentiment Analysis
+
+Sentiment analysis is the act of analyzing words to determine sentiments and opinions that may be positive or negative in polarity.
+
+2.Fake News Detection
+
+fake news is false information and hoaxes spread through social media and other online media to achieve a political agenda. In this data science project idea, we will use Python to build a model that can accurately detect whether a piece of news is real or fake.
+
+3.Speech Emotion Recognition
+
+This data science project uses librosa to perform Speech Emotion Recognition. SER is the process of trying to recognize human emotion and affective states from speech.
+
+4.Driver Drowsiness detection
+
+Drowsy driving is extremely dangerous and around thousands of accidents happen each year due to drivers falling asleep while driving. In this Python project, we will build a system that can detect sleepy drivers and also alert them by beeping alarm.
+
+5.Credit Card Fraud Detection
+
+In this project, we’ll use R with algorithms like Decision Trees, Logistic Regression, Artificial Neural Networks, and Gradient Boosting Classifier. We’ll use the Card Transactions dataset to classify credit card transactions into fraudulent and genuine.
+
+6.Movie Recommendation System
+
+A recommendation system sends out suggestions to users through a filtering process based on other users’ preferences and browsing history.
+
+7.Customer Segmentation
+
+Customer Segmentation is a popular application of unsupervised learning. Using clustering, companies identify segments of customers to target the potential user base.
+
+8.Uber Data Analysis
+
+This is a data visualization project with ggplot2 where we’ll use R and its libraries and analyze various parameters like trips by the hours in a day and trips during months in a year. We’ll use the Uber Pickups in New York City dataset and create visualizations for different time-frames of the year.

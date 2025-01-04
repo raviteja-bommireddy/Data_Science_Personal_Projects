@@ -14,13 +14,13 @@
 Feel free to explore the projects, provide feedback, and contribute if you're interested!
 
 # Types of projects 
-1. Descriptive Analytics: Understanding data.
-	○ Purpose: Understanding historical data to identify trends and patterns.
-	○ Techniques: Data exploration, summarization, visualization, and basic statistical analysis.
-   **○ Examples:**
-		§ Market Mixing Models : Analyzing the effectiveness of different marketing channels by understanding historical sales data and spend allocation.
-		§ Sales Performance Analysis: Analyzing historical sales data to find patterns and trends.
-		§ Customer Segmentation: Analyzing customer behavior data to identify distinct segments.
+1. Descriptive Analytics: Understanding data.<br>
+	○ Purpose: Understanding historical data to identify trends and patterns.<br>
+	○ Techniques: Data exploration, summarization, visualization, and basic statistical analysis.<br>
+   **○ Examples:**<br>
+		§ Market Mixing Models : Analyzing the effectiveness of different marketing channels by understanding historical sales data and spend allocation.<br>
+		§ Sales Performance Analysis: Analyzing historical sales data to find patterns and trends.<br>
+		§ Customer Segmentation: Analyzing customer behavior data to identify distinct segments.<br>
 2. Predictive Analytics: Predicting future outcomes.
 	○ Purpose: Forecasting future outcomes based on historical data.
 	○ Techniques: Time-series forecasting, regression models, classification models, ensemble methods.

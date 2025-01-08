@@ -21,7 +21,6 @@ Feel free to explore the projects, provide feedback, and contribute if you're in
 **Market Mixing Models** : Analyzing the effectiveness of different marketing channels by understanding historical sales data and spend allocation.<br>
 **Sales Performance Analysis**: Analyzing historical sales data to find patterns and trends.<br>
 **Customer Segmentation**: Analyzing customer behavior data to identify distinct segments.<br>
-<br>
 2. **Predictive Analytics**: Predicting future outcomes.<br>
 	○ **Purpose**: Forecasting future outcomes based on historical data.<br>
 	○ **Techniques**: Time-series forecasting, regression models, classification models, ensemble methods.<br>

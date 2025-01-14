@@ -44,4 +44,3 @@ To achieve our objective, we will follow these steps:
 9. **Visualization and Comparison**: We will visualize the forecasted sales and compare them with actual sales to assess the effectiveness of the model.
 
 By systematically following these steps, we aim to develop a robust machine learning model that can make accurate predictions about future sales, aiding retailers in making informed business decisions.
-## License

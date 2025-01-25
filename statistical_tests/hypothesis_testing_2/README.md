@@ -1,6 +1,6 @@
 **About This repository** : focuses on hypothesis testing techniques in data analysis. It features Python scripts, datasets, and step-by-step examples to demonstrate concepts like null and alternative hypotheses, p-values, t-tests, chi-square tests, and ANOVA. Perfect for anyone aiming to understand and apply statistical testing in real-world scenarios.
-<br>
-Hypothesis testing is like being a detective trying to figure out if something is true. You have two ideas: <br>
+<br> <br>
+**Hypothesis testing is like being a detective trying to figure out if something is true.** You have two ideas: <br>
 
 **Null Hypothesis (H₀)**: There's no difference in the average fare between credit card and cash customers. <br>
 **Alternative Hypothesis (H₁)**: There's a difference in the average fare between credit card and cash customers. <br>
